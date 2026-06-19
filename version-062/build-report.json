@@ -1,0 +1,12 @@
+{
+  "parsed_movies": 2000,
+  "detail_pages": 2000,
+  "category_pages": 10,
+  "category_card_count": 2000,
+  "category_assignment_total": 2000,
+  "html_files": 2014,
+  "jpg_covers": 150,
+  "analytics_missing": [],
+  "logo": "经典影视网",
+  "default_hls_source": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+}
